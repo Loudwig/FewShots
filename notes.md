@@ -1,0 +1,1 @@
+- y'a embedding snr dansa le réseau donc ça c'est good. Pas besoin de train sur différents snr. 
